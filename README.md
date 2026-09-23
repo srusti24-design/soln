@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srusti24-design/soln/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/srusti24-design/soln/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srusti24-design/soln/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/srusti24-design/soln/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/srusti24-design/soln/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/srusti24-design/soln/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
